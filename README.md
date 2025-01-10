@@ -22,7 +22,7 @@ To use this template in your project, follow these steps:
 
 1. **Clone or Download the Repository**  
    ```bash  
-   git clone https://github.com/your-username/navbar-template.git  
+   git clone https://github.com/MiracleChibuike/random.git  
 2. **Add the code to your Project**
    Copy the provided HTML, CSS, and JavaScript files into your project directory.
 3. **Include the files in your HTML**
