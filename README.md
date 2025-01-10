@@ -27,8 +27,10 @@ To use this template in your project, follow these steps:
    Copy the provided HTML, CSS, and JavaScript files into your project directory.
 3. **Include the files in your HTML**
    Reference the CSS and JS files in your HTML:
-   <link rel="stylesheet" href="css/index.css">  
-<script src="js/index.js defe></script>  
+  ```bash
+ <link rel="stylesheet" href="css/index.css">  
+   <script src="js/index.js defer></script>
+```
 4. **Customize the Styles**
    Adjust the styles in the CSS file to match your project’s theme
 5. **Open the index.html file in your browser to test the navbar and dropdown functionality**
