@@ -152,6 +152,7 @@
         border-top-right-radius: 20px;
         border-bottom-right-radius: 20px;
         overflow-y: scroll;
+        z-index: 100;
     }
     .nav-links ul li{
      margin: 5px 10px;
