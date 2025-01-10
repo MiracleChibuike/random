@@ -81,8 +81,11 @@ To use this template in your project, follow these steps:
                     <li>Contact</li>
                 </ul>
             </nav>
-            
+# Buy me a cup of coffee 
+<a href="https://www.buymeacoffee.com/MiracleChibuike" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 # Contributing
 Contributions are welcome! If you have suggestions for improvements, feel free to create an issue or submit a pull request.
  - If you find this project helpful, consider giving it a ⭐️ on GitHub!
 Happy coding! 🚀
+
+-2025 Miracle~Codes
