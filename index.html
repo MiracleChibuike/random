@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smooth Drop-down Page</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Asap+Condensed&family=Cabin+Condensed&family=Dancing+Script&family=Jost&family=Kalam&family=Kanit&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Noto+Sans+Display:wght@600&family=Odibee+Sans&family=PT+Sans+Narrow&family=Playwrite+ZA+Guides&family=Sansita+Swashed:wght@300..900&family=Signika+Negative:wght@300..700&family=Slabo+27px&family=Syne:wght@400..800&family=Ubuntu:wght@500&family=Yesteryear&display=swap');
+    </style>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <div class="parent">
+        <div class="nav-Container">
+            <div class="logo">
+                <h2>Miracle</h2>
+            </div>
+            <div class="menu">
+                <img src="images/hamburger.png" id="menubar" alt="">
+            </div>
+            <nav class="nav-links">
+                <ul>
+                    <li>Home</li>
+                    <li>About</li>
+                    <li class="pages_drops">Pages <i class="fa-solid fa-caret-down" id="caret-down"></i> <i class="fa-solid fa-caret-up" id="caret_up"></i>
+                        <div class="drops">
+                            <ul>
+                                <li>Pricing</li>
+                                <li>Shipping</li>
+                                <li>Faqs</li>
+                                <li>Feedbacks</li>
+                                <li>Reach Out</li>
+                                <li>Tech</li>
+                                <li>Skills</li>
+                                <li>Languages</li>
+                                <li>Location</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="showMore">
+                        <div class="dropsInfo">
+                            <p class="showTexts">Pages</p>
+                            <p class="showIcon"><i class="fa-solid fa-caret-down" id="drop-down-arrow"></i>
+                                    <i class="fa-solid fa-caret-up" id="arrow-2"></i>
+                            </p>
+                        </div>
+                        <div class="drops2">
+                            <ul>
+                                <li>Pricing</li>
+                                <li>Shipping</li>
+                                <li>Faqs</li>
+                                <li>Feedbacks</li>
+                                <li>Reach Out</li>
+                                <li>Tech</li>
+                                <li>Skills</li>
+                                <li>Languages</li>
+                                <li>Location</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>Portfolio</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
+        </div>
+        <div class="center">
+            <h3 id="Dev_Insight">Made by @Miracle Chibuike - Web Dev and Tutor</h3>
+        </div>
+    </div>
+</body>
+<script src="js/index.js"></script>
+<script src="https://kit.fontawesome.com/9b5c4c6b23.js" crossorigin="anonymous"></script>
+</html>
